@@ -25,5 +25,5 @@
 ---
 
 ### 聯絡方式
-Discord: [xinshou.tw](https://discord.xinshou.tw)
+Discord: [xinshoutw](https://discord.xinshou.tw)
 Email: icexinshou@gmail.com / contact@xinshou.tw
