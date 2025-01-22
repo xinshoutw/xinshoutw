@@ -9,10 +9,10 @@ Feel free to drop by my [Blog](https://blog.xinshou.tw) to see what I’m up to.
 
 ### GitHub Stats
 
-![GitHub Prefer Languages](https://stats-github.xinshou.tw/api/top-langs/?username=xinshoutw&layout=compact&theme=react&border_radius=10&custom_title=My%20Preferred%20Languages?count_private=true)
+![GitHub Prefer Languages](https://stats-github.xinshou.tw/api/top-langs/?username=xinshoutw&layout=compact&theme=react&border_radius=10&?count_private=true&custom_title=My%20Preferred%20Languages)
 
 <!--
-![GitHub Summary Stats](https://stats-github.xinshou.tw/api?username=xinshoutw&show_icons=true&rank_icon=percentile&border_radius=10&locale=en&custom_title=Overview&theme=react?count_private=true)
+![GitHub Summary Stats](https://stats-github.xinshou.tw/api?username=xinshoutw&show_icons=true&rank_icon=percentile&border_radius=10&locale=en&custom_title=Overview&theme=react&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=xinshoutw&theme=react&border_radius=10&locale=en&mode=weekly&date_format=[Y-]n-j)
 
@@ -43,9 +43,9 @@ Feel free to drop by my [Blog](https://blog.xinshou.tw) to see what I’m up to.
 
 ### GitHub 資訊
 
-![GitHub Prefer Languages](https://stats-github.xinshou.tw/api/top-langs/?username=xinshoutw&layout=compact&theme=react&border_radius=10&custom_title=偏好語言?count_private=true)
+![GitHub Prefer Languages](https://stats-github.xinshou.tw/api/top-langs/?username=xinshoutw&layout=compact&theme=react&border_radius=10&custom_title=偏好語言&count_private=true)
 <!~~
-![GitHub Summary Stats](https://stats-github.xinshou.tw/api?username=xinshoutw&show_icons=true&rank_icon=percentile&border_radius=10&locale=en&custom_title=總覽&theme=react?count_private=true)
+![GitHub Summary Stats](https://stats-github.xinshou.tw/api?username=xinshoutw&show_icons=true&rank_icon=percentile&border_radius=10&locale=en&custom_title=總覽&theme=react&count_private=true)
 
 
 
