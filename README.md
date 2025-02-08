@@ -11,6 +11,8 @@ Feel free to drop by my [Blog](https://blog.xinshou.tw) to see what I’m up to.
 
 ![GitHub Prefer Languages](https://stats-github.xinshou.tw/api/top-langs/?username=xinshoutw&layout=compact&theme=react&border_radius=10&count_private=true&custom_title=My%20Preferred%20Languages)
 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinshoutw&layout=compact&theme=dark)
+
 <!--
 ![GitHub Summary Stats](https://stats-github.xinshou.tw/api?username=xinshoutw&show_icons=true&rank_icon=percentile&border_radius=10&locale=en&custom_title=Overview&theme=react&count_private=true)
 
