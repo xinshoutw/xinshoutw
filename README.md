@@ -1,5 +1,12 @@
 <h1 align="center">🍀 Hello, I'm xinshou 🍀</h1>
 
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/810822763601461318?hideActivity=true&idleMessage=Zzz...&bg=21232A&borderRadius=60px%20%2F%2060px)](https://discord.com/users/810822763601461318)
+
+</div>
+
+
 ### About Me
 Hi there! I'm currently studying Computer Science and Information Engineering at National Taiwan University of Science and Technology (NTUST). While I may still be figuring out my future path, hope to one day contribute to Taiwan’s tech scene just like you do.
 
