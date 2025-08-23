@@ -14,11 +14,11 @@ Feel free to drop by my [Blog](https://blog.xinshou.tw) to see what I’m up to.
 
 ---
 
-### GitHub Stats
+### Stats
 
-![GitHub Prefer Languages](https://stats-github.xinshou.tw/api/top-langs/?username=xinshoutw&layout=compact&theme=react&border_radius=10&count_private=true&custom_title=My%20Preferred%20Languages)
+![GitHub Prefer Languages](https://stats-github.xinshou.tw/api/top-langs/?username=xinshoutw&layout=compact&theme=react&border_radius=10&count_private=true&custom_title=Repository%20Languages)
 
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinshoutw&layout=compact&theme=react&border_radius=10&custom_title=My%20Life)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xinshoutw&layout=compact&theme=react&border_radius=10&custom_title=Preferred%20Languages)
 
 <!--
 ![GitHub Summary Stats](https://stats-github.xinshou.tw/api?username=xinshoutw&show_icons=true&rank_icon=percentile&border_radius=10&locale=en&custom_title=Overview&theme=react&count_private=true)
@@ -30,9 +30,11 @@ Feel free to drop by my [Blog](https://blog.xinshou.tw) to see what I’m up to.
 
 ---
 
+[![wakatime](https://wakatime.com/badge/user/88d3efb7-b5d9-449a-9272-1b66203807a7.svg)](https://wakatime.com/@88d3efb7-b5d9-449a-9272-1b66203807a7)
+
 ### Contact Me
 - **Discord**: [xinshoutw](https://discord.xinshou.tw)  
-- **Email**: icexinshou@gmail.com / contact@xinshou.tw
+- **Email**: me@xinshou.tw / xinshoutw@gmail.com
 
 <!--
 <h1 align="center">🍀 海螺 我是 XinShou 🍀</h1>
