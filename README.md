@@ -25,7 +25,7 @@
 ![LeetCode Contest](https://leetcard.jacoblin.cool/xinshoutw?ext=contest&theme=nord)
 
 <details>
-<summary>Stats</summary>
+<summary>Details</summary>
 <br>
 
 <p align="center">
