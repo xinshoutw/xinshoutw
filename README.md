@@ -4,6 +4,7 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/810822763601461318?hideActivity=true&bg=21232A&borderRadius=3rem)](https://discord.com/users/810822763601461318)
 
+[//]: # (https://readme-typing-svg.demolab.com/demo/?font=Jetbrains+mono&weight=500&duration=2000&center=true&vCenter=true&width=550&lines=Coding+is+Life;CS+means+Coding+Slave;CS+means+Can%27t+Sleep)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+mono&weight=500&duration=2000&pause=1000&center=true&vCenter=true&width=550&lines=Coding+is+Life;CS+means+Coding+Slave;CS+means+Can't+Sleep)](https://git.io/typing-svg)
 
 </div>
@@ -21,8 +22,7 @@
 
 ![GitHub Summary Stats](https://stats-github.xinshou.tw/api?username=xinshoutw&show_icons=true&rank_icon=percentile&border_radius=10&locale=en&custom_title=Overview&theme=nord&count_private=true)
 
-[](https://readme-typing-svg.demolab.com/demo/?font=Jetbrains+mono&weight=500&duration=2000&center=true&vCenter=true&width=550&lines=Coding+is+Life;CS+means+Coding+Slave;CS+means+Can%27t+Sleep)
-![LeetCode Contest](https://leetcard.jacoblin.cool/xinshoutw?ext=contest&theme=nord)
+[![LeetCode Contest](https://leetcard.jacoblin.cool/xinshoutw?ext=contest&theme=nord)](https://leetcode.com/u/xinshoutw/)
 
 <details>
 <summary>Details</summary>
@@ -34,7 +34,7 @@
 
 ![GItHub Preferred Languages](https://stats-github.xinshou.tw/api/wakatime?username=xinshoutw&layout=compact&theme=nord&border_radius=10&custom_title=Preferred%20Languages&langs_count=10)
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/xinshoutw.png)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/xinshoutw.png)](https://tryhackme.com/p/xinshoutw)
 
 </p>
 
